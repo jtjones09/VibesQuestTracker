@@ -1,9 +1,9 @@
 ## Interface: 110105
-## Title: Kaliel's Tracker
-## Notes: Improved Blizzard Objective Tracker
-## Version: 7.10.0
-## Author: Kaliel (Marouan Sabbagh)
-## IconTexture: Interface\Addons\!KalielsTracker\Media\KT_logo
+## Title: Vibe's Quest Tracker (VQT)
+## Notes: Improved Blizzard Objective Tracker; this is a fork of Kaliel's Tracker. Intially this will start with a tweaks to maintain the orignal app until I make an overhaul of the whole addon.
+## Version: 1.0.0
+## Author: Vibe (Scorndraco)
+## IconTexture: Interface\Addons\VibesQuestTracker\Media\KT_logo
 
 ## SavedVariables: KalielsTrackerDB
 ## Dependencies: Blizzard_MawBuffs
@@ -16,8 +16,8 @@ Constants.lua
 Media.lua
 Utils.lua
 
-KalielsTracker.lua
-KalielsTracker.xml
+VQT.lua
+VQT.xml
 
 Modules\Modules.xml
 
